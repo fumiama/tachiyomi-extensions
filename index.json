@@ -1016,10 +1016,10 @@
   {
     "name": "Tachiyomi: Comic Fury",
     "pkg": "eu.kanade.tachiyomi.extension.all.comicfury",
-    "apk": "tachiyomi-all.comicfury-v1.4.1.apk",
+    "apk": "tachiyomi-all.comicfury-v1.4.2.apk",
     "lang": "all",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -18818,6 +18818,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Cerberus Series",
+    "pkg": "eu.kanade.tachiyomi.extension.es.cerberusseries",
+    "apk": "tachiyomi-es.cerberusseries-v1.4.1.apk",
+    "lang": "es",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Cerberus Series",
+        "lang": "es",
+        "id": "144471574235575421",
+        "baseUrl": "https://cerberuseries.xyz",
+        "versionId": 1,
+        "hasCloudflare": 0
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Coco Rip",
     "pkg": "eu.kanade.tachiyomi.extension.es.cocorip",
     "apk": "tachiyomi-es.cocorip-v1.4.31.apk",
@@ -19318,27 +19339,6 @@
         "baseUrl": "https://r1.leermanga.xyz",
         "versionId": 1,
         "hasCloudflare": 0
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Legion Scan",
-    "pkg": "eu.kanade.tachiyomi.extension.es.legionscan",
-    "apk": "tachiyomi-es.legionscan-v1.4.33.apk",
-    "lang": "es",
-    "code": 33,
-    "version": "1.4.33",
-    "nsfw": 0,
-    "hasReadme": 1,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Legion Scan",
-        "lang": "es",
-        "id": "1864419645989454982",
-        "baseUrl": "https://legionscans.com",
-        "versionId": 2,
-        "hasCloudflare": 1
       }
     ]
   },
