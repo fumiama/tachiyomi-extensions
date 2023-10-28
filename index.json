@@ -2133,27 +2133,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Flame Scans",
-    "pkg": "eu.kanade.tachiyomi.extension.all.flamescans",
-    "apk": "tachiyomi-all.flamescans-v1.4.32.apk",
-    "lang": "all",
-    "code": 32,
-    "version": "1.4.32",
-    "nsfw": 0,
-    "hasReadme": 1,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Flame Scans",
-        "lang": "en",
-        "id": "6350607071566689772",
-        "baseUrl": "https://flamescans.org",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: FoolSlide Customizable",
     "pkg": "eu.kanade.tachiyomi.extension.all.foolslidecustomizable",
     "apk": "tachiyomi-all.foolslidecustomizable-v1.4.3.apk",
@@ -9423,6 +9402,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Flame Comics",
+    "pkg": "eu.kanade.tachiyomi.extension.en.flamecomics",
+    "apk": "tachiyomi-en.flamecomics-v1.4.27.apk",
+    "lang": "en",
+    "code": 27,
+    "version": "1.4.27",
+    "nsfw": 0,
+    "hasReadme": 1,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Flame Comics",
+        "lang": "en",
+        "id": "6350607071566689772",
+        "baseUrl": "https://flamecomics.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Flex Tape Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.flextapescans",
     "apk": "tachiyomi-en.flextapescans-v1.4.31.apk",
@@ -15368,10 +15368,10 @@
   {
     "name": "Tachiyomi: Omega Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.omegascans",
-    "apk": "tachiyomi-en.omegascans-v1.4.35.apk",
+    "apk": "tachiyomi-en.omegascans-v1.4.36.apk",
     "lang": "en",
-    "code": 35,
-    "version": "1.4.35",
+    "code": 36,
+    "version": "1.4.36",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -22419,10 +22419,10 @@
   {
     "name": "Tachiyomi: Tenshi.id",
     "pkg": "eu.kanade.tachiyomi.extension.id.masterkomik",
-    "apk": "tachiyomi-id.masterkomik-v1.4.30.apk",
+    "apk": "tachiyomi-id.masterkomik-v1.4.31.apk",
     "lang": "id",
-    "code": 30,
-    "version": "1.4.30",
+    "code": 31,
+    "version": "1.4.31",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -28365,10 +28365,10 @@
   {
     "name": "Tachiyomi: O Cu Meo",
     "pkg": "eu.kanade.tachiyomi.extension.vi.ocumeo",
-    "apk": "tachiyomi-vi.ocumeo-v1.4.1.apk",
+    "apk": "tachiyomi-vi.ocumeo-v1.4.2.apk",
     "lang": "vi",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -28377,7 +28377,7 @@
         "name": "Ổ Cú Mèo",
         "lang": "vi",
         "id": "8330490015365279279",
-        "baseUrl": "https://www.ocumeo.com",
+        "baseUrl": "https://www.ocumoe.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
