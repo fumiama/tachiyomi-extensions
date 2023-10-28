@@ -22606,6 +22606,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: One Piece Berwarna",
+    "pkg": "eu.kanade.tachiyomi.extension.id.onepieceberwarna",
+    "apk": "tachiyomi-id.onepieceberwarna-v1.4.1.apk",
+    "lang": "id",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "One Piece Berwarna",
+        "lang": "id",
+        "id": "6327374097013138583",
+        "baseUrl": "https://onepieceberwarna.com",
+        "versionId": 1,
+        "hasCloudflare": 0
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Otsugami",
     "pkg": "eu.kanade.tachiyomi.extension.id.otsugami",
     "apk": "tachiyomi-id.otsugami-v1.4.27.apk",
@@ -25186,6 +25207,27 @@
         "lang": "pt-BR",
         "id": "785489692920959121",
         "baseUrl": "https://limboscan.com.br",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Link Start Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.linkstartscan",
+    "apk": "tachiyomi-pt.linkstartscan-v1.4.31.apk",
+    "lang": "pt-BR",
+    "code": 31,
+    "version": "1.4.31",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Link Start Scan",
+        "lang": "pt-BR",
+        "id": "5735566668025999711",
+        "baseUrl": "https://www.linkstartscan.xyz",
         "versionId": 1,
         "hasCloudflare": 1
       }
