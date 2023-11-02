@@ -5988,6 +5988,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Project Suki",
+    "pkg": "eu.kanade.tachiyomi.extension.all.projectsuki",
+    "apk": "tachiyomi-all.projectsuki-v1.4.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Project Suki",
+        "lang": "en",
+        "id": "8965918600406781666",
+        "baseUrl": "https://projectsuki.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Ravens Scans",
     "pkg": "eu.kanade.tachiyomi.extension.all.ravensscans",
     "apk": "tachiyomi-all.ravensscans-v1.4.8.apk",
