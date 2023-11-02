@@ -1141,10 +1141,10 @@
   {
     "name": "Tachiyomi: Comick",
     "pkg": "eu.kanade.tachiyomi.extension.all.comickfun",
-    "apk": "tachiyomi-all.comickfun-v1.4.37.apk",
+    "apk": "tachiyomi-all.comickfun-v1.4.38.apk",
     "lang": "all",
-    "code": 37,
-    "version": "1.4.37",
+    "code": 38,
+    "version": "1.4.38",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -22642,6 +22642,27 @@
         "lang": "id",
         "id": "5360960267485387879",
         "baseUrl": "https://ngomik.net",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Nonbiri",
+    "pkg": "eu.kanade.tachiyomi.extension.id.nonbiri",
+    "apk": "tachiyomi-id.nonbiri-v1.4.27.apk",
+    "lang": "id",
+    "code": 27,
+    "version": "1.4.27",
+    "nsfw": 0,
+    "hasReadme": 1,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Nonbiri",
+        "lang": "id",
+        "id": "6914421548026063757",
+        "baseUrl": "https://nonbiri.space",
         "versionId": 1,
         "hasCloudflare": 1
       }
