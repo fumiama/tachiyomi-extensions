@@ -25318,6 +25318,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Mangá Nanquim",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.mangananquim",
+    "apk": "tachiyomi-pt.mangananquim-v1.4.31.apk",
+    "lang": "pt-BR",
+    "code": 31,
+    "version": "1.4.31",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Mangá Nanquim",
+        "lang": "pt-BR",
+        "id": "7307221978155754822",
+        "baseUrl": "https://mangananquim.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Mangás Chan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mangaschan",
     "apk": "tachiyomi-pt.mangaschan-v1.4.28.apk",
@@ -25528,27 +25549,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Nix Mangás",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.nixmangas",
-    "apk": "tachiyomi-pt.nixmangas-v1.4.3.apk",
-    "lang": "pt-BR",
-    "code": 3,
-    "version": "1.4.3",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Nix Mangás",
-        "lang": "pt-BR",
-        "id": "7158227645830523421",
-        "baseUrl": "https://nixmangas.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Nocturne Summer",
     "pkg": "eu.kanade.tachiyomi.extension.pt.nocturnesummer",
     "apk": "tachiyomi-pt.nocturnesummer-v1.4.31.apk",
@@ -25738,21 +25738,21 @@
     ]
   },
   {
-    "name": "Tachiyomi: Prisma Scans",
+    "name": "Tachiyomi: Demon Sect",
     "pkg": "eu.kanade.tachiyomi.extension.pt.prismascans",
-    "apk": "tachiyomi-pt.prismascans-v1.4.34.apk",
+    "apk": "tachiyomi-pt.prismascans-v1.4.35.apk",
     "lang": "pt-BR",
-    "code": 34,
-    "version": "1.4.34",
+    "code": 35,
+    "version": "1.4.35",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "Prisma Scans",
+        "name": "Demon Sect",
         "lang": "pt-BR",
         "id": "8168108118738519332",
-        "baseUrl": "https://prismacomics.com",
+        "baseUrl": "https://demonsect.com.br",
         "versionId": 1,
         "hasCloudflare": 1
       }
