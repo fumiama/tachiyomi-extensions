@@ -5670,10 +5670,10 @@
   {
     "name": "Tachiyomi: 999Hentai",
     "pkg": "eu.kanade.tachiyomi.extension.all.ninenineninehentai",
-    "apk": "tachiyomi-all.ninenineninehentai-v1.4.4.apk",
+    "apk": "tachiyomi-all.ninenineninehentai-v1.4.5.apk",
     "lang": "all",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -5682,7 +5682,7 @@
         "name": "999Hentai",
         "lang": "all",
         "id": "5098173700376022513",
-        "baseUrl": "https://999hentai.to",
+        "baseUrl": "https://999hentai.net",
         "versionId": 1,
         "hasCloudflare": 1
       },
@@ -5690,7 +5690,7 @@
         "name": "999Hentai",
         "lang": "en",
         "id": "4370122548313941497",
-        "baseUrl": "https://999hentai.to",
+        "baseUrl": "https://999hentai.net",
         "versionId": 1,
         "hasCloudflare": 1
       },
@@ -5698,7 +5698,7 @@
         "name": "999Hentai",
         "lang": "ja",
         "id": "8948948503520127713",
-        "baseUrl": "https://999hentai.to",
+        "baseUrl": "https://999hentai.net",
         "versionId": 1,
         "hasCloudflare": 1
       },
@@ -5706,7 +5706,7 @@
         "name": "999Hentai",
         "lang": "zh",
         "id": "3874510362699054213",
-        "baseUrl": "https://999hentai.to",
+        "baseUrl": "https://999hentai.net",
         "versionId": 1,
         "hasCloudflare": 1
       },
@@ -5714,7 +5714,7 @@
         "name": "999Hentai",
         "lang": "es",
         "id": "2790053117909987291",
-        "baseUrl": "https://999hentai.to",
+        "baseUrl": "https://999hentai.net",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -20015,23 +20015,23 @@
     ]
   },
   {
-    "name": "Tachiyomi: TempleScan",
+    "name": "Tachiyomi: Temple Scan",
     "pkg": "eu.kanade.tachiyomi.extension.es.templescanesp",
-    "apk": "tachiyomi-es.templescanesp-v1.4.32.apk",
+    "apk": "tachiyomi-es.templescanesp-v1.4.33.apk",
     "lang": "es",
-    "code": 32,
-    "version": "1.4.32",
+    "code": 33,
+    "version": "1.4.33",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "TempleScan",
+        "name": "Temple Scan",
         "lang": "es",
-        "id": "5156005718098309529",
-        "baseUrl": "https://templescanesp.com",
-        "versionId": 1,
-        "hasCloudflare": 1
+        "id": "4711394377881167920",
+        "baseUrl": "https://templescanesp.net",
+        "versionId": 2,
+        "hasCloudflare": 0
       }
     ]
   },
