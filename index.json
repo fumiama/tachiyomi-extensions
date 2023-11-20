@@ -24232,7 +24232,7 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki314.net",
+        "baseUrl": "https://manatoki315.net",
         "versionId": 1,
         "hasCloudflare": 1
       },
@@ -24240,7 +24240,7 @@
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki314.com",
+        "baseUrl": "https://newtoki315.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -29268,10 +29268,10 @@
   {
     "name": "Tachiyomi: Roumanwu",
     "pkg": "eu.kanade.tachiyomi.extension.zh.roumanwu",
-    "apk": "tachiyomi-zh.roumanwu-v1.4.5.apk",
+    "apk": "tachiyomi-zh.roumanwu-v1.4.6.apk",
     "lang": "zh",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -29280,7 +29280,7 @@
         "name": "肉漫屋",
         "lang": "zh",
         "id": "3647420805839021718",
-        "baseUrl": "https://roum1.xyz",
+        "baseUrl": "https://roum2.xyz",
         "versionId": 1,
         "hasCloudflare": 0
       }
