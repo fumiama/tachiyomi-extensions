@@ -6913,27 +6913,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: AkuManga",
-    "pkg": "eu.kanade.tachiyomi.extension.ar.akumanga",
-    "apk": "tachiyomi-ar.akumanga-v1.4.32.apk",
-    "lang": "ar",
-    "code": 32,
-    "version": "1.4.32",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "AkuManga",
-        "lang": "ar",
-        "id": "107810123708352143",
-        "baseUrl": "https://akumanga.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: عرب تونز",
     "pkg": "eu.kanade.tachiyomi.extension.ar.arabtoons",
     "apk": "tachiyomi-ar.arabtoons-v1.4.31.apk",
@@ -7060,27 +7039,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: EGY Manga",
-    "pkg": "eu.kanade.tachiyomi.extension.ar.egymanga",
-    "apk": "tachiyomi-ar.egymanga-v1.4.32.apk",
-    "lang": "ar",
-    "code": 32,
-    "version": "1.4.32",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "EGY Manga",
-        "lang": "ar",
-        "id": "7643727061409877182",
-        "baseUrl": "https://egymanga.net",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Empire Webtoon",
     "pkg": "eu.kanade.tachiyomi.extension.ar.empirewebtoon",
     "apk": "tachiyomi-ar.empirewebtoon-v1.4.34.apk",
@@ -7117,27 +7075,6 @@
         "lang": "ar",
         "id": "6199068857713349300",
         "baseUrl": "https://falconmanga.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Fug Manga",
-    "pkg": "eu.kanade.tachiyomi.extension.ar.fugmanga",
-    "apk": "tachiyomi-ar.fugmanga-v1.4.32.apk",
-    "lang": "ar",
-    "code": 32,
-    "version": "1.4.32",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Fug Manga",
-        "lang": "ar",
-        "id": "2179683000481919163",
-        "baseUrl": "https://fugmanga.net",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -7251,10 +7188,10 @@
   {
     "name": "Tachiyomi: King of Shojo",
     "pkg": "eu.kanade.tachiyomi.extension.ar.kingofshojo",
-    "apk": "tachiyomi-ar.kingofshojo-v1.4.27.apk",
+    "apk": "tachiyomi-ar.kingofshojo-v1.4.28.apk",
     "lang": "ar",
-    "code": 27,
-    "version": "1.4.27",
+    "code": 28,
+    "version": "1.4.28",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -7957,6 +7894,27 @@
         "lang": "en",
         "id": "3136868295051070813",
         "baseUrl": "https://adultwebtoon.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: AkuManga",
+    "pkg": "eu.kanade.tachiyomi.extension.en.akumanga",
+    "apk": "tachiyomi-en.akumanga-v1.4.33.apk",
+    "lang": "en",
+    "code": 33,
+    "version": "1.4.33",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "AkuManga",
+        "lang": "en",
+        "id": "5319917120604744511",
+        "baseUrl": "https://akumanga.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -12699,27 +12657,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: MangaManhua",
-    "pkg": "eu.kanade.tachiyomi.extension.en.mangamanhua",
-    "apk": "tachiyomi-en.mangamanhua-v1.4.32.apk",
-    "lang": "en",
-    "code": 32,
-    "version": "1.4.32",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "MangaManhua",
-        "lang": "en",
-        "id": "3557514913892491195",
-        "baseUrl": "https://mangamanhua.online",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: MangaManiacs",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangamaniacs",
     "apk": "tachiyomi-en.mangamaniacs-v1.4.31.apk",
@@ -13562,11 +13499,11 @@
   {
     "name": "Tachiyomi: MangaStic",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangastic",
-    "apk": "tachiyomi-en.mangastic-v1.4.33.apk",
+    "apk": "tachiyomi-en.mangastic-v1.4.34.apk",
     "lang": "en",
-    "code": 33,
-    "version": "1.4.33",
-    "nsfw": 0,
+    "code": 34,
+    "version": "1.4.34",
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -27565,27 +27502,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Atikrost",
-    "pkg": "eu.kanade.tachiyomi.extension.tr.atikrost",
-    "apk": "tachiyomi-tr.atikrost-v1.4.32.apk",
-    "lang": "tr",
-    "code": 32,
-    "version": "1.4.32",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Atikrost",
-        "lang": "tr",
-        "id": "825776120573855096",
-        "baseUrl": "https://atikrost.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Çizgi Roman Arşivi",
     "pkg": "eu.kanade.tachiyomi.extension.tr.cizgiromanarsivi",
     "apk": "tachiyomi-tr.cizgiromanarsivi-v1.4.31.apk",
@@ -27727,48 +27643,6 @@
         "lang": "tr",
         "id": "6697195959104054185",
         "baseUrl": "https://faestormmanga.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: GeassToon",
-    "pkg": "eu.kanade.tachiyomi.extension.tr.geasstoon",
-    "apk": "tachiyomi-tr.geasstoon-v1.4.31.apk",
-    "lang": "tr",
-    "code": 31,
-    "version": "1.4.31",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "GeassToon",
-        "lang": "tr",
-        "id": "3414929802666948909",
-        "baseUrl": "https://geasstoon.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Gecenin Lordu",
-    "pkg": "eu.kanade.tachiyomi.extension.tr.geceninlordu",
-    "apk": "tachiyomi-tr.geceninlordu-v1.4.28.apk",
-    "lang": "tr",
-    "code": 28,
-    "version": "1.4.28",
-    "nsfw": 0,
-    "hasReadme": 1,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Gecenin Lordu",
-        "lang": "tr",
-        "id": "1200149809260678421",
-        "baseUrl": "https://geceninlordu.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -28253,27 +28127,6 @@
         "id": "1479830960881750685",
         "baseUrl": "https://tortuga-ceviri.com",
         "versionId": 2,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Türkçe Manga",
-    "pkg": "eu.kanade.tachiyomi.extension.tr.turkcemanga",
-    "apk": "tachiyomi-tr.turkcemanga-v1.4.33.apk",
-    "lang": "tr",
-    "code": 33,
-    "version": "1.4.33",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Türkçe Manga",
-        "lang": "tr",
-        "id": "4324693001442456743",
-        "baseUrl": "https://turkcemanga.com",
-        "versionId": 1,
         "hasCloudflare": 1
       }
     ]
