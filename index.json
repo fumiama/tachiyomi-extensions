@@ -2599,10 +2599,10 @@
   {
     "name": "Tachiyomi: IMHentai",
     "pkg": "eu.kanade.tachiyomi.extension.all.imhentai",
-    "apk": "tachiyomi-all.imhentai-v1.4.13.apk",
+    "apk": "tachiyomi-all.imhentai-v1.4.14.apk",
     "lang": "all",
-    "code": 13,
-    "version": "1.4.13",
+    "code": 14,
+    "version": "1.4.14",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -4992,10 +4992,10 @@
   {
     "name": "Tachiyomi: MyReadingManga",
     "pkg": "eu.kanade.tachiyomi.extension.all.myreadingmanga",
-    "apk": "tachiyomi-all.myreadingmanga-v1.4.47.apk",
+    "apk": "tachiyomi-all.myreadingmanga-v1.4.48.apk",
     "lang": "all",
-    "code": 47,
-    "version": "1.4.47",
+    "code": 48,
+    "version": "1.4.48",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -10599,6 +10599,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Kai Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.kaiscans",
+    "apk": "tachiyomi-en.kaiscans-v1.4.27.apk",
+    "lang": "en",
+    "code": 27,
+    "version": "1.4.27",
+    "nsfw": 0,
+    "hasReadme": 1,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Kai Scans",
+        "lang": "en",
+        "id": "4825368993215448425",
+        "baseUrl": "https://www.kaiscans.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: KawaScans",
     "pkg": "eu.kanade.tachiyomi.extension.en.kawascans",
     "apk": "tachiyomi-en.kawascans-v1.4.33.apk",
@@ -12153,27 +12174,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: MangaGreat",
-    "pkg": "eu.kanade.tachiyomi.extension.en.mangagreat",
-    "apk": "tachiyomi-en.mangagreat-v1.4.36.apk",
-    "lang": "en",
-    "code": 36,
-    "version": "1.4.36",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "MangaGreat",
-        "lang": "en",
-        "id": "7365977268365917973",
-        "baseUrl": "https://mangagreat.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Mangahasu",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangahasu",
     "apk": "tachiyomi-en.mangahasu-v1.4.16.apk",
@@ -12449,10 +12449,10 @@
   {
     "name": "Tachiyomi: MangaKatana",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangakatana",
-    "apk": "tachiyomi-en.mangakatana-v1.4.9.apk",
+    "apk": "tachiyomi-en.mangakatana-v1.4.10.apk",
     "lang": "en",
-    "code": 9,
-    "version": "1.4.9",
+    "code": 10,
+    "version": "1.4.10",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17972,10 +17972,10 @@
   {
     "name": "Tachiyomi: VIZ",
     "pkg": "eu.kanade.tachiyomi.extension.en.vizshonenjump",
-    "apk": "tachiyomi-en.vizshonenjump-v1.4.19.apk",
+    "apk": "tachiyomi-en.vizshonenjump-v1.4.20.apk",
     "lang": "en",
-    "code": 19,
-    "version": "1.4.19",
+    "code": 20,
+    "version": "1.4.20",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -18268,27 +18268,6 @@
         "baseUrl": "https://www.webtoon.xyz",
         "versionId": 1,
         "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: WhimSubs",
-    "pkg": "eu.kanade.tachiyomi.extension.en.whimsubs",
-    "apk": "tachiyomi-en.whimsubs-v1.4.1.apk",
-    "lang": "en",
-    "code": 1,
-    "version": "1.4.1",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "WhimSubs",
-        "lang": "en",
-        "id": "406258778426488067",
-        "baseUrl": "https://whimsubs.xyz",
-        "versionId": 1,
-        "hasCloudflare": 0
       }
     ]
   },
@@ -18730,6 +18709,27 @@
         "baseUrl": "https://bokugents.com",
         "versionId": 1,
         "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Brakeout",
+    "pkg": "eu.kanade.tachiyomi.extension.es.brakeout",
+    "apk": "tachiyomi-es.brakeout-v1.4.1.apk",
+    "lang": "es",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Brakeout",
+        "lang": "es",
+        "id": "7123045421883828967",
+        "baseUrl": "https://brakeout.xyz",
+        "versionId": 1,
+        "hasCloudflare": 0
       }
     ]
   },
@@ -19471,10 +19471,10 @@
   {
     "name": "Tachiyomi: Mangas No Sekai",
     "pkg": "eu.kanade.tachiyomi.extension.es.mangasnosekai",
-    "apk": "tachiyomi-es.mangasnosekai-v1.4.32.apk",
+    "apk": "tachiyomi-es.mangasnosekai-v1.4.33.apk",
     "lang": "es",
-    "code": 32,
-    "version": "1.4.32",
+    "code": 33,
+    "version": "1.4.33",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19513,10 +19513,10 @@
   {
     "name": "Tachiyomi: Manhwa-Latino",
     "pkg": "eu.kanade.tachiyomi.extension.es.manhwalatino",
-    "apk": "tachiyomi-es.manhwalatino-v1.4.38.apk",
+    "apk": "tachiyomi-es.manhwalatino-v1.4.39.apk",
     "lang": "es",
-    "code": 38,
-    "version": "1.4.38",
+    "code": 39,
+    "version": "1.4.39",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -28869,10 +28869,10 @@
   {
     "name": "Tachiyomi: Jinman Tiantang",
     "pkg": "eu.kanade.tachiyomi.extension.zh.jinmantiantang",
-    "apk": "tachiyomi-zh.jinmantiantang-v1.4.39.apk",
+    "apk": "tachiyomi-zh.jinmantiantang-v1.4.40.apk",
     "lang": "zh",
-    "code": 39,
-    "version": "1.4.39",
+    "code": 40,
+    "version": "1.4.40",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
