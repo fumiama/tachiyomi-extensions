@@ -19639,10 +19639,10 @@
   {
     "name": "Tachiyomi: Noblesse Translations",
     "pkg": "eu.kanade.tachiyomi.extension.es.noblessetranslations",
-    "apk": "tachiyomi-es.noblessetranslations-v1.4.33.apk",
+    "apk": "tachiyomi-es.noblessetranslations-v1.4.34.apk",
     "lang": "es",
-    "code": 33,
-    "version": "1.4.33",
+    "code": 34,
+    "version": "1.4.34",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19651,7 +19651,7 @@
         "name": "Noblesse Translations",
         "lang": "es",
         "id": "5125011410949702843",
-        "baseUrl": "https://noblessetranslations.com",
+        "baseUrl": "https://www.noblessev1.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -24232,7 +24232,7 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki317.net",
+        "baseUrl": "https://manatoki318.net",
         "versionId": 1,
         "hasCloudflare": 1
       },
@@ -24240,7 +24240,7 @@
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki317.com",
+        "baseUrl": "https://newtoki318.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
