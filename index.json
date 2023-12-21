@@ -11748,10 +11748,10 @@
   {
     "name": "Tachiyomi: Manga Demon",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangademon",
-    "apk": "tachiyomi-en.mangademon-v1.4.7.apk",
+    "apk": "tachiyomi-en.mangademon-v1.4.8.apk",
     "lang": "en",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 1,
@@ -11760,7 +11760,7 @@
         "name": "Manga Demon",
         "lang": "en",
         "id": "8089306398534489202",
-        "baseUrl": "https://manga-demon.org",
+        "baseUrl": "https://demoncomics.org",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -14982,10 +14982,10 @@
   {
     "name": "Tachiyomi: MyHentaiGallery",
     "pkg": "eu.kanade.tachiyomi.extension.en.myhentaigallery",
-    "apk": "tachiyomi-en.myhentaigallery-v1.4.4.apk",
+    "apk": "tachiyomi-en.myhentaigallery-v1.4.5.apk",
     "lang": "en",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -16116,10 +16116,10 @@
   {
     "name": "Tachiyomi: ReadComicOnline",
     "pkg": "eu.kanade.tachiyomi.extension.en.readcomiconline",
-    "apk": "tachiyomi-en.readcomiconline-v1.4.17.apk",
+    "apk": "tachiyomi-en.readcomiconline-v1.4.18.apk",
     "lang": "en",
-    "code": 17,
-    "version": "1.4.17",
+    "code": 18,
+    "version": "1.4.18",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -16215,27 +16215,6 @@
         "baseUrl": "https://ww3.readdrstone.com",
         "versionId": 1,
         "hasCloudflare": 0
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Readers Point",
-    "pkg": "eu.kanade.tachiyomi.extension.en.readerspoint",
-    "apk": "tachiyomi-en.readerspoint-v1.4.32.apk",
-    "lang": "en",
-    "code": 32,
-    "version": "1.4.32",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Readers Point",
-        "lang": "en",
-        "id": "6122370495666626511",
-        "baseUrl": "https://readers-point.space",
-        "versionId": 1,
-        "hasCloudflare": 1
       }
     ]
   },
