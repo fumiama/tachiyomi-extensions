@@ -2689,10 +2689,10 @@
   {
     "name": "Tachiyomi: Kavita",
     "pkg": "eu.kanade.tachiyomi.extension.all.kavita",
-    "apk": "tachiyomi-all.kavita-v1.4.12.apk",
+    "apk": "tachiyomi-all.kavita-v1.4.13.apk",
     "lang": "all",
-    "code": 12,
-    "version": "1.4.12",
+    "code": 13,
+    "version": "1.4.13",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 1,
@@ -5961,21 +5961,21 @@
   {
     "name": "Tachiyomi: Project Suki",
     "pkg": "eu.kanade.tachiyomi.extension.all.projectsuki",
-    "apk": "tachiyomi-all.projectsuki-v1.4.1.apk",
+    "apk": "tachiyomi-all.projectsuki-v1.4.2.apk",
     "lang": "all",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
+    "hasReadme": 1,
+    "hasChangelog": 1,
     "sources": [
       {
         "name": "Project Suki",
-        "lang": "en",
+        "lang": "all",
         "id": "8965918600406781666",
-        "baseUrl": "https://projectsuki.com",
+        "baseUrl": "https://projectsuki.com/",
         "versionId": 1,
-        "hasCloudflare": 1
+        "hasCloudflare": 0
       }
     ]
   },
@@ -10417,6 +10417,27 @@
         "lang": "en",
         "id": "6422096666751316291",
         "baseUrl": "https://void-scans.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: InfinityScans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.infinityscans",
+    "apk": "tachiyomi-en.infinityscans-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "InfinityScans",
+        "lang": "en",
+        "id": "74662479355660193",
+        "baseUrl": "https://infinityscans.xyz",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -20351,6 +20372,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Bentoscan",
+    "pkg": "eu.kanade.tachiyomi.extension.fr.bentoscan",
+    "apk": "tachiyomi-fr.bentoscan-v1.4.6.apk",
+    "lang": "fr",
+    "code": 6,
+    "version": "1.4.6",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Bentoscan",
+        "lang": "fr",
+        "id": "1278839293404078533",
+        "baseUrl": "https://bentoscan.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Blue Solo",
     "pkg": "eu.kanade.tachiyomi.extension.fr.bluesolo",
     "apk": "tachiyomi-fr.bluesolo-v1.4.32.apk",
@@ -20794,10 +20836,10 @@
   {
     "name": "Tachiyomi: Manga-Scan",
     "pkg": "eu.kanade.tachiyomi.extension.fr.mangascan",
-    "apk": "tachiyomi-fr.mangascan-v1.4.7.apk",
+    "apk": "tachiyomi-fr.mangascan-v1.4.8.apk",
     "lang": "fr",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20806,7 +20848,7 @@
         "name": "Manga-Scan",
         "lang": "fr",
         "id": "5152484884536000046",
-        "baseUrl": "https://manga-scan.me",
+        "baseUrl": "https://mangascan.cc",
         "versionId": 1,
         "hasCloudflare": 1
       }
