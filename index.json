@@ -21382,10 +21382,10 @@
   {
     "name": "Tachiyomi: BacaKomik",
     "pkg": "eu.kanade.tachiyomi.extension.id.bacakomik",
-    "apk": "tachiyomi-id.bacakomik-v1.4.7.apk",
+    "apk": "tachiyomi-id.bacakomik-v1.4.8.apk",
     "lang": "id",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21394,7 +21394,7 @@
         "name": "BacaKomik",
         "lang": "id",
         "id": "4383360263234319058",
-        "baseUrl": "https://bacakomik.me",
+        "baseUrl": "https://bacakomik.net",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -25499,6 +25499,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Mangás Online",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.mangasonline",
+    "apk": "tachiyomi-pt.mangasonline-v1.4.27.apk",
+    "lang": "pt-BR",
+    "code": 27,
+    "version": "1.4.27",
+    "nsfw": 0,
+    "hasReadme": 1,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Mangás Online",
+        "lang": "pt-BR",
+        "id": "2782054023338547343",
+        "baseUrl": "https://mangasonline.cc",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: ROG Mangás",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mangasoverall",
     "apk": "tachiyomi-pt.mangasoverall-v1.4.33.apk",
@@ -25961,27 +25982,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Reaper Scans",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.reaperscans",
-    "apk": "tachiyomi-pt.reaperscans-v1.4.56.apk",
-    "lang": "pt-BR",
-    "code": 56,
-    "version": "1.4.56",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Reaper Scans",
-        "lang": "pt-BR",
-        "id": "8225529306937468421",
-        "baseUrl": "https://reaperscans.net",
-        "versionId": 2,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Saikai Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.saikaiscan",
     "apk": "tachiyomi-pt.saikaiscan-v1.4.11.apk",
@@ -26438,27 +26438,6 @@
         "lang": "pt-BR",
         "id": "4490140647146605230",
         "baseUrl": "https://ycscan.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Yaoi Toshokan",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.yaoitoshokan",
-    "apk": "tachiyomi-pt.yaoitoshokan-v1.4.36.apk",
-    "lang": "pt-BR",
-    "code": 36,
-    "version": "1.4.36",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Yaoi Toshokan",
-        "lang": "pt-BR",
-        "id": "6528893207032794482",
-        "baseUrl": "https://www.yaoitoshokan.net",
         "versionId": 1,
         "hasCloudflare": 1
       }
