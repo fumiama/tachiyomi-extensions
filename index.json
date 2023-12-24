@@ -5723,10 +5723,10 @@
   {
     "name": "Tachiyomi: NovelCool",
     "pkg": "eu.kanade.tachiyomi.extension.all.novelcool",
-    "apk": "tachiyomi-all.novelcool-v1.4.2.apk",
+    "apk": "tachiyomi-all.novelcool-v1.4.3.apk",
     "lang": "all",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -8810,6 +8810,27 @@
         "lang": "en",
         "id": "3936594291139725888",
         "baseUrl": "https://cosmic-scans.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: CreepyScans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.creepyscans",
+    "apk": "tachiyomi-en.creepyscans-v1.4.32.apk",
+    "lang": "en",
+    "code": 32,
+    "version": "1.4.32",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "CreepyScans",
+        "lang": "en",
+        "id": "5664380558630038214",
+        "baseUrl": "https://creepyscans.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -21382,10 +21403,10 @@
   {
     "name": "Tachiyomi: BacaKomik",
     "pkg": "eu.kanade.tachiyomi.extension.id.bacakomik",
-    "apk": "tachiyomi-id.bacakomik-v1.4.8.apk",
+    "apk": "tachiyomi-id.bacakomik-v1.4.9.apk",
     "lang": "id",
-    "code": 8,
-    "version": "1.4.8",
+    "code": 9,
+    "version": "1.4.9",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
