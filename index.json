@@ -13489,6 +13489,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Manga Sect",
+    "pkg": "eu.kanade.tachiyomi.extension.en.mangasect",
+    "apk": "tachiyomi-en.mangasect-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Manga Sect",
+        "lang": "en",
+        "id": "794477486574207780",
+        "baseUrl": "https://mangasect.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: MangaSee",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangasee",
     "apk": "tachiyomi-en.mangasee-v1.4.35.apk",
@@ -14707,6 +14728,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: ManhwaZ",
+    "pkg": "eu.kanade.tachiyomi.extension.en.manhwaz",
+    "apk": "tachiyomi-en.manhwaz-v1.4.32.apk",
+    "lang": "en",
+    "code": 32,
+    "version": "1.4.32",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "ManhwaZ",
+        "lang": "en",
+        "id": "651625426989893977",
+        "baseUrl": "https://manhwaz.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Manhwua.fans",
     "pkg": "eu.kanade.tachiyomi.extension.en.manhwuafans",
     "apk": "tachiyomi-en.manhwuafans-v1.4.32.apk",
@@ -15163,6 +15205,27 @@
         "lang": "en",
         "id": "1534896124643392093",
         "baseUrl": "https://nekoscan.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: NewManhua",
+    "pkg": "eu.kanade.tachiyomi.extension.en.newmanhua",
+    "apk": "tachiyomi-en.newmanhua-v1.4.32.apk",
+    "lang": "en",
+    "code": 32,
+    "version": "1.4.32",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "NewManhua",
+        "lang": "en",
+        "id": "6715244532367774098",
+        "baseUrl": "https://newmanhua.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -17830,6 +17893,27 @@
         "lang": "en",
         "id": "368848319592333339",
         "baseUrl": "https://topmanhua.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: TopReadManhwa",
+    "pkg": "eu.kanade.tachiyomi.extension.en.topreadmanhwa",
+    "apk": "tachiyomi-en.topreadmanhwa-v1.4.32.apk",
+    "lang": "en",
+    "code": 32,
+    "version": "1.4.32",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "TopReadManhwa",
+        "lang": "en",
+        "id": "1211789311570977785",
+        "baseUrl": "https://topreadmanhwa.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
