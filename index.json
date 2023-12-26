@@ -3587,10 +3587,10 @@
   {
     "name": "Tachiyomi: MangaFire",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangafire",
-    "apk": "tachiyomi-all.mangafire-v1.4.3.apk",
+    "apk": "tachiyomi-all.mangafire-v1.4.4.apk",
     "lang": "all",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -7997,6 +7997,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Animated Glitched Comics",
+    "pkg": "eu.kanade.tachiyomi.extension.en.animatedglitchedcomics",
+    "apk": "tachiyomi-en.animatedglitchedcomics-v1.4.27.apk",
+    "lang": "en",
+    "code": 27,
+    "version": "1.4.27",
+    "nsfw": 0,
+    "hasReadme": 1,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Animated Glitched Comics",
+        "lang": "en",
+        "id": "6872417312672610361",
+        "baseUrl": "https://agscomics.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Animated Glitched Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.animatedglitchedscans",
     "apk": "tachiyomi-en.animatedglitchedscans-v1.4.28.apk",
@@ -8480,6 +8501,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: BirdManga",
+    "pkg": "eu.kanade.tachiyomi.extension.en.birdmanga",
+    "apk": "tachiyomi-en.birdmanga-v1.4.27.apk",
+    "lang": "en",
+    "code": 27,
+    "version": "1.4.27",
+    "nsfw": 0,
+    "hasReadme": 1,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "BirdManga",
+        "lang": "en",
+        "id": "7351841944792308292",
+        "baseUrl": "https://birdmanga.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: BlogManga",
     "pkg": "eu.kanade.tachiyomi.extension.en.blogmanga",
     "apk": "tachiyomi-en.blogmanga-v1.4.32.apk",
@@ -8602,6 +8644,27 @@
         "baseUrl": "https://manga.clone-army.org/",
         "versionId": 1,
         "hasCloudflare": 0
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: CloudRecess",
+    "pkg": "eu.kanade.tachiyomi.extension.en.cloudrecess",
+    "apk": "tachiyomi-en.cloudrecess-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "CloudRecess",
+        "lang": "en",
+        "id": "1732195708718687963",
+        "baseUrl": "https://cloudrecess.io",
+        "versionId": 1,
+        "hasCloudflare": 1
       }
     ]
   },
@@ -22495,10 +22558,10 @@
   {
     "name": "Tachiyomi: Mangasusu",
     "pkg": "eu.kanade.tachiyomi.extension.id.mangasusu",
-    "apk": "tachiyomi-id.mangasusu-v1.4.29.apk",
+    "apk": "tachiyomi-id.mangasusu-v1.4.30.apk",
     "lang": "id",
-    "code": 29,
-    "version": "1.4.29",
+    "code": 30,
+    "version": "1.4.30",
     "nsfw": 1,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -22507,7 +22570,7 @@
         "name": "Mangasusu",
         "lang": "id",
         "id": "8157748444640827548",
-        "baseUrl": "https://mangasusuku.xyz/",
+        "baseUrl": "https://mangasusuku.xyz",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -22747,10 +22810,10 @@
   {
     "name": "Tachiyomi: MikoRoku",
     "pkg": "eu.kanade.tachiyomi.extension.id.mikoroku",
-    "apk": "tachiyomi-id.mikoroku-v1.4.8.apk",
+    "apk": "tachiyomi-id.mikoroku-v1.4.9.apk",
     "lang": "id",
-    "code": 8,
-    "version": "1.4.8",
+    "code": 9,
+    "version": "1.4.9",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25457,6 +25520,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Ler 999",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.ler999",
+    "apk": "tachiyomi-pt.ler999-v1.4.8.apk",
+    "lang": "pt-BR",
+    "code": 8,
+    "version": "1.4.8",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Ler 999",
+        "lang": "pt-BR",
+        "id": "11864058740306611",
+        "baseUrl": "https://ler999.blogspot.com",
+        "versionId": 1,
+        "hasCloudflare": 0
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Ler Mangá",
     "pkg": "eu.kanade.tachiyomi.extension.pt.lermanga",
     "apk": "tachiyomi-pt.lermanga-v1.4.3.apk",
@@ -27809,6 +27893,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: HentaiZM",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.hentaizm",
+    "apk": "tachiyomi-tr.hentaizm-v1.4.32.apk",
+    "lang": "tr",
+    "code": 32,
+    "version": "1.4.32",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "HentaiZM",
+        "lang": "tr",
+        "id": "9058842310298227429",
+        "baseUrl": "https://manga.hentaizm.fun",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Jiangzaitoon",
     "pkg": "eu.kanade.tachiyomi.extension.tr.jiangzaitoon",
     "apk": "tachiyomi-tr.jiangzaitoon-v1.4.35.apk",
@@ -29281,10 +29386,10 @@
   {
     "name": "Tachiyomi: Picacomic",
     "pkg": "eu.kanade.tachiyomi.extension.zh.picacomic",
-    "apk": "tachiyomi-zh.picacomic-v1.4.2.apk",
+    "apk": "tachiyomi-zh.picacomic-v1.4.3.apk",
     "lang": "zh",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
