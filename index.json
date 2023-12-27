@@ -24638,27 +24638,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Akuma no Tenshi",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.akumanotenshi",
-    "apk": "tachiyomi-pt.akumanotenshi-v1.4.32.apk",
-    "lang": "pt-BR",
-    "code": 32,
-    "version": "1.4.32",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Akuma no Tenshi",
-        "lang": "pt-BR",
-        "id": "93518012887924139",
-        "baseUrl": "https://akumanotenshi.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Ama Scans",
     "pkg": "eu.kanade.tachiyomi.extension.pt.amascans",
     "apk": "tachiyomi-pt.amascans-v1.4.8.apk",
@@ -24844,27 +24823,6 @@
         "baseUrl": "https://leitura.baixarhentai.net",
         "versionId": 1,
         "hasCloudflare": 0
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Banana Cítrica",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.bananamecanica",
-    "apk": "tachiyomi-pt.bananamecanica-v1.4.36.apk",
-    "lang": "pt-BR",
-    "code": 36,
-    "version": "1.4.36",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Banana Cítrica",
-        "lang": "pt-BR",
-        "id": "4770070980248873010",
-        "baseUrl": "https://bananacitrica.com",
-        "versionId": 1,
-        "hasCloudflare": 1
       }
     ]
   },
@@ -25158,27 +25116,6 @@
         "id": "1082329368612094336",
         "baseUrl": "https://franxxmangas.net",
         "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Gekkou Hentai",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.gekkouhentai",
-    "apk": "tachiyomi-pt.gekkouhentai-v1.4.32.apk",
-    "lang": "pt-BR",
-    "code": 32,
-    "version": "1.4.32",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Gekkou Hentai",
-        "lang": "pt-BR",
-        "id": "3463585693082078397",
-        "baseUrl": "https://hentai.gekkouscans.com.br",
-        "versionId": 2,
         "hasCloudflare": 1
       }
     ]
@@ -25493,27 +25430,6 @@
         "lang": "pt-BR",
         "id": "5221484950287110636",
         "baseUrl": "https://leitor.kamisama.com.br",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Lady Estelar Scan",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.ladyestelarscan",
-    "apk": "tachiyomi-pt.ladyestelarscan-v1.4.32.apk",
-    "lang": "pt-BR",
-    "code": 32,
-    "version": "1.4.32",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Lady Estelar Scan",
-        "lang": "pt-BR",
-        "id": "3823669266857536564",
-        "baseUrl": "https://ladyestelarscan.com.br",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -26339,27 +26255,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Taberu Mangás",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.taberumangas",
-    "apk": "tachiyomi-pt.taberumangas-v1.4.32.apk",
-    "lang": "pt-BR",
-    "code": 32,
-    "version": "1.4.32",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Taberu Mangás",
-        "lang": "pt-BR",
-        "id": "3136904121410078242",
-        "baseUrl": "https://taberu.org",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Tankou Hentai",
     "pkg": "eu.kanade.tachiyomi.extension.pt.tankouhentai",
     "apk": "tachiyomi-pt.tankouhentai-v1.4.32.apk",
@@ -26501,27 +26396,6 @@
         "lang": "pt-BR",
         "id": "2530661012733105383",
         "baseUrl": "https://valkyriescan.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Vórtce Scan",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.vortcescan",
-    "apk": "tachiyomi-pt.vortcescan-v1.4.32.apk",
-    "lang": "pt-BR",
-    "code": 32,
-    "version": "1.4.32",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Vórtce Scan",
-        "lang": "pt-BR",
-        "id": "6177334053229518446",
-        "baseUrl": "https://vortcescan.com.br",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -26690,27 +26564,6 @@
         "lang": "pt-BR",
         "id": "4476506734614164770",
         "baseUrl": "https://yuri.live",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Zero Scan",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.zeroscan",
-    "apk": "tachiyomi-pt.zeroscan-v1.4.32.apk",
-    "lang": "pt-BR",
-    "code": 32,
-    "version": "1.4.32",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Zero Scan",
-        "lang": "pt-BR",
-        "id": "7574269362748735914",
-        "baseUrl": "https://zeroscan.com.br",
         "versionId": 1,
         "hasCloudflare": 1
       }
