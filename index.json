@@ -8650,10 +8650,10 @@
   {
     "name": "Tachiyomi: CloudRecess",
     "pkg": "eu.kanade.tachiyomi.extension.en.cloudrecess",
-    "apk": "tachiyomi-en.cloudrecess-v1.4.1.apk",
+    "apk": "tachiyomi-en.cloudrecess-v1.4.2.apk",
     "lang": "en",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -10797,6 +10797,27 @@
         "baseUrl": "https://kissmanga.in",
         "versionId": 1,
         "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Kiutaku",
+    "pkg": "eu.kanade.tachiyomi.extension.en.kiutaku",
+    "apk": "tachiyomi-en.kiutaku-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Kiutaku",
+        "lang": "en",
+        "id": "3040035304874076216",
+        "baseUrl": "https://kiutaku.com",
+        "versionId": 1,
+        "hasCloudflare": 0
       }
     ]
   },
@@ -28036,6 +28057,27 @@
         "baseUrl": "https://serimanga.com",
         "versionId": 1,
         "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Shadow Çeviri",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.shadowceviri",
+    "apk": "tachiyomi-tr.shadowceviri-v1.4.8.apk",
+    "lang": "tr",
+    "code": 8,
+    "version": "1.4.8",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Shadow Çeviri",
+        "lang": "tr",
+        "id": "3852979672050614736",
+        "baseUrl": "https://shadowceviri.blogspot.com",
+        "versionId": 1,
+        "hasCloudflare": 0
       }
     ]
   },
