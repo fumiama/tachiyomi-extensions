@@ -9091,10 +9091,10 @@
   {
     "name": "Tachiyomi: DragonTea",
     "pkg": "eu.kanade.tachiyomi.extension.en.dragontea",
-    "apk": "tachiyomi-en.dragontea-v1.4.34.apk",
+    "apk": "tachiyomi-en.dragontea-v1.4.35.apk",
     "lang": "en",
-    "code": 34,
-    "version": "1.4.34",
+    "code": 35,
+    "version": "1.4.35",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17143,6 +17143,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Rudra Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.rudrascans",
+    "apk": "tachiyomi-en.rudrascans-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Rudra Scans",
+        "lang": "en",
+        "id": "4499646390723123295",
+        "baseUrl": "https://rudrascans.com",
+        "versionId": 1,
+        "hasCloudflare": 0
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: S2Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.s2manga",
     "apk": "tachiyomi-en.s2manga-v1.4.34.apk",
@@ -17397,10 +17418,10 @@
   {
     "name": "Tachiyomi: Solar and Sundry",
     "pkg": "eu.kanade.tachiyomi.extension.en.solarandsundry",
-    "apk": "tachiyomi-en.solarandsundry-v1.4.1.apk",
+    "apk": "tachiyomi-en.solarandsundry-v1.4.2.apk",
     "lang": "en",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17409,7 +17430,7 @@
         "name": "Solar and Sundry",
         "lang": "en",
         "id": "7250486205199627024",
-        "baseUrl": "https://solar-and-sundry-worker.giraugh.workers.dev",
+        "baseUrl": "https://sas-api.fly.dev",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -22892,6 +22913,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Natsu",
+    "pkg": "eu.kanade.tachiyomi.extension.id.natsu",
+    "apk": "tachiyomi-id.natsu-v1.4.27.apk",
+    "lang": "id",
+    "code": 27,
+    "version": "1.4.27",
+    "nsfw": 0,
+    "hasReadme": 1,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Natsu",
+        "lang": "id",
+        "id": "778073414277513172",
+        "baseUrl": "https://natsu.id",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Nekomik",
     "pkg": "eu.kanade.tachiyomi.extension.id.nekomik",
     "apk": "tachiyomi-id.nekomik-v1.4.29.apk",
@@ -25480,10 +25522,10 @@
   {
     "name": "Tachiyomi: Ler Mangá",
     "pkg": "eu.kanade.tachiyomi.extension.pt.lermanga",
-    "apk": "tachiyomi-pt.lermanga-v1.4.3.apk",
+    "apk": "tachiyomi-pt.lermanga-v1.4.4.apk",
     "lang": "pt-BR",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
