@@ -19400,10 +19400,10 @@
   {
     "name": "Tachiyomi: InfraFandub",
     "pkg": "eu.kanade.tachiyomi.extension.es.infrafandub",
-    "apk": "tachiyomi-es.infrafandub-v1.4.32.apk",
+    "apk": "tachiyomi-es.infrafandub-v1.4.33.apk",
     "lang": "es",
-    "code": 32,
-    "version": "1.4.32",
+    "code": 33,
+    "version": "1.4.33",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19412,7 +19412,7 @@
         "name": "InfraFandub",
         "lang": "es",
         "id": "5594696691862732725",
-        "baseUrl": "https://infrafandub.xyz",
+        "baseUrl": "https://infrafandub.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -19455,6 +19455,27 @@
         "lang": "es",
         "id": "8879875375160764811",
         "baseUrl": "https://manga.mundodrama.site",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: KenhuaScan",
+    "pkg": "eu.kanade.tachiyomi.extension.es.kenhuascan",
+    "apk": "tachiyomi-es.kenhuascan-v1.4.32.apk",
+    "lang": "es",
+    "code": 32,
+    "version": "1.4.32",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "KenhuaScan",
+        "lang": "es",
+        "id": "6669048809649653213",
+        "baseUrl": "https://kenhuav2scan.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -19541,6 +19562,27 @@
         "baseUrl": "https://lectormanga.com",
         "versionId": 1,
         "hasCloudflare": 0
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: LectorManga.lat",
+    "pkg": "eu.kanade.tachiyomi.extension.es.lectormangalat",
+    "apk": "tachiyomi-es.lectormangalat-v1.4.32.apk",
+    "lang": "es",
+    "code": 32,
+    "version": "1.4.32",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "LectorManga.lat",
+        "lang": "es",
+        "id": "3701714196729780447",
+        "baseUrl": "https://www.lectormanga.lat",
+        "versionId": 1,
+        "hasCloudflare": 1
       }
     ]
   },
@@ -19667,6 +19709,27 @@
         "baseUrl": "https://mangaland.net",
         "versionId": 1,
         "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Manga Latino",
+    "pkg": "eu.kanade.tachiyomi.extension.es.mangalatino",
+    "apk": "tachiyomi-es.mangalatino-v1.4.1.apk",
+    "lang": "es",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "MangaLatino",
+        "lang": "es",
+        "id": "3450241237203069638",
+        "baseUrl": "https://mangalatino.com",
+        "versionId": 1,
+        "hasCloudflare": 0
       }
     ]
   },
@@ -19896,6 +19959,27 @@
         "lang": "es",
         "id": "2562646828412798234",
         "baseUrl": "https://monarcamanga.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: NekoScans",
+    "pkg": "eu.kanade.tachiyomi.extension.es.nekoscans",
+    "apk": "tachiyomi-es.nekoscans-v1.4.27.apk",
+    "lang": "es",
+    "code": 27,
+    "version": "1.4.27",
+    "nsfw": 1,
+    "hasReadme": 1,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "NekoScans",
+        "lang": "es",
+        "id": "7508363780557085181",
+        "baseUrl": "https://nekoscans.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -20337,6 +20421,27 @@
         "lang": "es",
         "id": "3078082450536171700",
         "baseUrl": "https://traduccionesmoonlight.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Tres Daos Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.es.tresdaosscan",
+    "apk": "tachiyomi-es.tresdaosscan-v1.4.27.apk",
+    "lang": "es",
+    "code": 27,
+    "version": "1.4.27",
+    "nsfw": 0,
+    "hasReadme": 1,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Tres Daos Scan",
+        "lang": "es",
+        "id": "7518531764820524940",
+        "baseUrl": "https://tresdaos.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -25186,10 +25291,10 @@
   {
     "name": "Tachiyomi: Gekkou Scans",
     "pkg": "eu.kanade.tachiyomi.extension.pt.gekkouscan",
-    "apk": "tachiyomi-pt.gekkouscan-v1.4.32.apk",
+    "apk": "tachiyomi-pt.gekkouscan-v1.4.33.apk",
     "lang": "pt-BR",
-    "code": 32,
-    "version": "1.4.32",
+    "code": 33,
+    "version": "1.4.33",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27979,10 +28084,10 @@
   {
     "name": "Tachiyomi: Manga-TR",
     "pkg": "eu.kanade.tachiyomi.extension.tr.mangatr",
-    "apk": "tachiyomi-tr.mangatr-v1.4.9.apk",
+    "apk": "tachiyomi-tr.mangatr-v1.4.10.apk",
     "lang": "tr",
-    "code": 9,
-    "version": "1.4.9",
+    "code": 10,
+    "version": "1.4.10",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -28462,10 +28567,10 @@
   {
     "name": "Tachiyomi: HentaiVN",
     "pkg": "eu.kanade.tachiyomi.extension.vi.hentaivn",
-    "apk": "tachiyomi-vi.hentaivn-v1.4.30.apk",
+    "apk": "tachiyomi-vi.hentaivn-v1.4.31.apk",
     "lang": "vi",
-    "code": 30,
-    "version": "1.4.30",
+    "code": 31,
+    "version": "1.4.31",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -28473,7 +28578,7 @@
       {
         "name": "HentaiVN",
         "lang": "vi",
-        "id": "7173390495455323659",
+        "id": "6560768551969686205",
         "baseUrl": "https://hentaivn.tv",
         "versionId": 1,
         "hasCloudflare": 1
