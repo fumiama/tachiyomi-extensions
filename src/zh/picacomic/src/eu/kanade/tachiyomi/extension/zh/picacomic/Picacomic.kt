@@ -100,7 +100,7 @@ class Picacomic : HttpSource(), ConfigurableSource {
             )
         }
 
-        val payload = parts[1]?.let { JSONObject(String(Base64.decode(it, Base64.DEFAULT))) }
+        val payload = parts[1]?.let { JSONObject(Base64.decode(it, Base64.DEFAULT).decodeToString()) }
 
         val exp = payload?.getLong("exp")?.let {
             Date(it * 1000)
